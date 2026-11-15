@@ -1,0 +1,1 @@
+window.TR_CONFIG={url:'https://djufxgdfhkznsmxfkqbh.supabase.co',key:'sb_publishable_FIGX4nMjeGY1QDsi3qv9jA_Mopcq11v'};
